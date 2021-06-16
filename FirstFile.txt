@@ -1,1 +1,3 @@
-This is our first file to understand the concept of Git Commit
+This is our first file to understand the concept of Git Commit.
+
+I am adding a few more lines.
