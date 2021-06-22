@@ -1,1 +1,0 @@
-This is the sixth file created while at the firstbranch to understand rebasing.
