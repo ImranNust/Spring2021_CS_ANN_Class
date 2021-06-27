@@ -13,3 +13,6 @@ This is the repository contains class notes for Artificial Neural Networks.
 	2. [Lecture2_Module2.ipynb](https://github.com/ImranNust/Spring2021_CS_ANN_Class/blob/main/Lecture2-GitTutorials/Lecture2_Module2.ipynb)
 	3. [Lecture2_Module3.ipynb](https://github.com/ImranNust/Spring2021_CS_ANN_Class/blob/main/Lecture2-GitTutorials/Lecture2_Module3.ipynb)
 	4. [Lecture2_Module4.ipynb](https://github.com/ImranNust/Spring2021_CS_ANN_Class/blob/main/Lecture2-GitTutorials/Lecture2_Module4.ipynb)
+	
+3. [Lecture 3: Google Colab and A Single Neuron](https://github.com/ImranNust/Spring2021_CS_ANN_Class/tree/main/Lecture3-GoogleColab-and-ASingleNeuron)
+	1. [Lecture3_Module1.ipynb](https://github.com/ImranNust/Spring2021_CS_ANN_Class/blob/main/Lecture3-GoogleColab-and-ASingleNeuron/Lecture3_Module1.ipynb)
